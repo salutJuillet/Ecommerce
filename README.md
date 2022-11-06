@@ -8,8 +8,9 @@
 # Ecommerce
 
 <div align="center">
-  <img src="public/images/Ecommerce-preview.png" width="400px"/>
-</div>
+  <img src="public/images/Ecommerce-preview.png" width="300px"/> <br/>
+  <a href="https://youtu.be/cAMZOhvcOrI" target="_blank">https://youtu.be/cAMZOhvcOrI</a>
+</div> <br/><br/>
 
 여성의류 쇼핑몰입니다.
 <br/><br/>
